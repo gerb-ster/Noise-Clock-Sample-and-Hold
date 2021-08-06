@@ -7133,8 +7133,8 @@ Source: www.kingbright.com</description>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
-<part name="SIGN_ATTN" library="TomW" deviceset="ALPHA-9MM" device="A"/>
-<part name="RATE" library="TomW" deviceset="ALPHA-9MM" device="A"/>
+<part name="SIGN_ATTN" library="TomW" deviceset="ALPHA-9MM" device="A" value="100k Lin"/>
+<part name="RATE" library="TomW" deviceset="ALPHA-9MM" device="A" value="1M log"/>
 <part name="GND22" library="supply1" deviceset="GND" device=""/>
 <part name="GND23" library="supply1" deviceset="GND" device=""/>
 <part name="GND24" library="supply1" deviceset="GND" device=""/>
@@ -7145,7 +7145,7 @@ Source: www.kingbright.com</description>
 <part name="P+9" library="supply1" deviceset="+12V" device=""/>
 <part name="LED1" library="led" deviceset="LED" device="3MM"/>
 <part name="GND38" library="supply1" deviceset="GND" device=""/>
-<part name="GLIDE" library="TomW" deviceset="ALPHA-9MM" device="A"/>
+<part name="GLIDE" library="TomW" deviceset="ALPHA-9MM" device="A" value="100k Lin"/>
 <part name="CLOCK_OUT" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device="" value=""/>
 <part name="GND27" library="supply1" deviceset="GND" device=""/>
 <part name="JP2" library="pinhead" deviceset="PINHD-1X4" device=""/>

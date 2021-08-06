@@ -10,3 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Inintial repo setup
+
+## [1.0.1] - 2021-08-06
+
+### Changed
+
+- Added valus of the pots to the schematic

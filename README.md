@@ -10,3 +10,10 @@ The noise colors are White, Blue, Pink & Red. They are created by filtering the 
 - done: breadboard and test
 - done: design frontpanel
 - done: order PCB and build prototype
+
+## Pot Values
+
+Since the earlier schematic didn't include the pot values, here they are (schematics have also been updated)
+
+Slew & Attn: 100k lin
+Rate: 1M log
